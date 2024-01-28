@@ -1,0 +1,7 @@
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\AntWork.exe
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\appsettings.Development.json
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\appsettings.json
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\AntWork.dll
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\AntWork.deps.json
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\AntWork.runtimeconfig.json
+E:\Coding\Azure\WebApp\AntWork\bin\Release\net7.0\publish\AntWork.pdb

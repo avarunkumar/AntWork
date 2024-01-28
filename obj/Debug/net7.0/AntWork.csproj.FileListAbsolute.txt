@@ -1,0 +1,2 @@
+E:\Coding\Azure\WebApp\AntWork\bin\Debug\net7.0\AntWork.exe
+E:\Coding\Azure\WebApp\AntWork\bin\Debug\net7.0\AntWork.dll
